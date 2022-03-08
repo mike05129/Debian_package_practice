@@ -1,3 +1,4 @@
-# Debian_package_practice
+# Debian_package_practicegn
 
-[GNU]:http://www.gnu.org/software/software.html
+GNU:
+http://www.gnu.org/software/software.html
