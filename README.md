@@ -1,5 +1,5 @@
 # Debian_package_practicegn <br />
-This is for learning Debian package learing<br />
+This is for learning Debian package<br />
 Suggest requirement: Ubuntu 20.04<br />
 
 
