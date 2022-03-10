@@ -19,6 +19,7 @@ Configure : dpkg --configure package<br />
 GNU:http://www.gnu.org/software/software.html <br />
 Maintainer Scipts:https://wiki.debian.org/MaintainerScripts <br />
 Useful CMD : https://www.debian.org/doc/manuals/maint-guide/build.zh-tw.html <br />
+Git lab : https://salsa.debian.org/public
 
 ## __Troubleshooting__ <br />
 locked by another process : https://askubuntu.com/questions/219545/dpkg-error-dpkg-status-database-is-locked-by-another-process <br />
